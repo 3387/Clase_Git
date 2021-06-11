@@ -1,0 +1,23 @@
+<h1 style="color:Tomato;">Hello World</h1>
+<p style="color:DodgerBlue;">Lorem ipsum...</p>
+<p style="color:MediumSeaGreen;">Ut wisi enim...</p>
+
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  
